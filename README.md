@@ -10,7 +10,7 @@
 
 ### Currently
 - **Founder & CTO, [Brava AI](https://gobrava.ai)**
-- **Hardware & data center security** for large financial data centers: GPU, side-channel, firmware, TPM/HSM, and FPGA across critical data centers at the world's largest bank
+- **Hardware & data center security** for a leading financial institution: GPU, side-channel, firmware, TPM/HSM, and FPGA across critical data centers
 
 ### Background
 Cisco / Microsoft Azure fabric (RDMA for AI/ML, PKI, secure boot, $1B facility build) → AWS (IoT and certificate security) → Google Cloud (AppSec strategy, red teaming, fuzzing) → Founder & CTO, Brava AI
