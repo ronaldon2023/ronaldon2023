@@ -1,22 +1,28 @@
 # Ron Nascimento
 
-**Security engineer — infrastructure, hardware & AI systems.** · CCIE #32110 · CISSP
+**I build full-stack platforms that deliver data center security, hardware attestation, and security posture, from firmware to the AI layer.** · CCIE #32110 · CISSP
 
-I secure large-scale infrastructure end to end — from firmware, secure-boot, and datacenter networks, up through multi-cloud and Kubernetes, to the AI/agent layer.
-
-I come *up* from the IAM Active Directory, silicon and network layer (Cisco — switch-firmware debugging, MACsec, RDMA for AI/ML clusters) and *down* from the application (offensive security and hardening across AWS, Azure, and GCP at Google; AI-agent security as a founder). AWS Application Security Engineer securing Web, IoT apps. That full-stack range — from the wire to the container to the model — is where I like to work.
+### What I'm building
+- **Hardware & data center security** — vulnerability research for data center and GPU-cluster hardware using frontier AI: firmware analysis, root-of-trust attestation, chain-of-custody, and shared vendor chipsets
+- **Security posture** — continuous assessment across cloud, identity, and infrastructure
+- **AI agent security** — [Receipts](https://github.com/ronaldon2023/ledgers-receipts): auditable AI agent actions; a [Claude Code plugin](https://github.com/ronaldon2023/receipts-claudesmb) that checks an agent's payments in code before money moves
+- **Threat intelligence** — [Brava AI](https://gobrava.ai): AI-driven brand and threat intelligence on secure, multi-account AWS infrastructure with in-region data residency
 
 ### Currently
-- **Hardware & datacenter security in large financial data centers — GPU, side-channel, firmware, TPM/HSM, FPGA across critical datacenters at the world's largest bank.
-- **Founder, [Brava AI](https://gobrava.ai)** — brand & threat intelligence built on secure, SOC-oriented, multi-account AWS infrastructure with in-region data residency.
+- **Founder & CTO, [Brava AI](https://gobrava.ai)**
+- **Hardware & data center security** for large financial data centers: GPU, side-channel, firmware, TPM/HSM, and FPGA across critical data centers at the world's largest bank
+
+### Background
+Cisco / Microsoft Azure fabric (RDMA for AI/ML, PKI, secure boot, $1B facility build) → AWS (IoT and certificate security) → Google Cloud (AppSec strategy, red teaming, fuzzing) → Founder & CTO, Brava AI
 
 ### Focus areas
-`Firmware & datacenter security` · `Multi-cloud & cloud-agnostic security` · `Kubernetes / container security` · `Offensive security & threat modeling` · `AI/ML & LLM-agent security`
+`Firmware & data center security` · `Hardware attestation` · `Multi-cloud security` · `Kubernetes / container security` · `Offensive security & threat modeling` · `AI/ML & LLM-agent security`
 
 ### Toolbelt
 `Python` · `PowerShell` · `TypeScript` · `C/C++` · `Java` · `Burp Suite` · `AFL++/Frida` · `ROADtools` · `Nmap`
 
 ### Elsewhere
 - LinkedIn — [in/roncloudsec](https://linkedin.com/in/roncloudsec)
+- Website — [gobrava.ai](https://gobrava.ai)
 
 <sub>Most of my active work lives in private repositories.</sub>
